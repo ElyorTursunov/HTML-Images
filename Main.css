@@ -1,0 +1,47 @@
+.page{
+    size: 3px;
+    padding-top: 1rem;
+    padding-left: 3rem;
+    border:  2px solid gray;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    
+   
+}
+
+.B{
+    margin-left: 700px;
+   padding-top: 1rem;
+   color: mediumblue; 
+}
+.cage{
+    
+    padding-top: 1rem;
+    padding-left: 3rem;
+    border:  2px solid gray;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.C{
+    margin-left: 700px;
+    padding-top: 1rem;
+    color: mediumblue; 
+}
+.age{
+    size: 3px;
+    padding-top: 1rem;
+    padding-left: 3rem;
+    border:  2px solid gray;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.C{
+    margin-left: 700px;
+    padding-top: 1rem;
+    color: mediumblue; 
+}
+}
